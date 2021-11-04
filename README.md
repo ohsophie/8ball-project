@@ -1,5 +1,3 @@
 # 8ball-project
 
-_текст_
-
-**текст**
+here is **simple 8ball app** using python tkinter
